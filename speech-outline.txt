@@ -7,17 +7,22 @@ Specific Purpose: To help the audience understand how artificial intelligence le
 **INTRODUCTION** 
 
  Attention Getter:
-  Imagine opening Netflix and it suggests the exact movie you're in the mood for. I know it must have happened to most of you. But have you ever wondered how a machine knows it ? That's because of something you have probably heard of Artificial Intelligence.
+  Imagine opening Netflix and it suggests the exact movie you're in the mood for. I know it must have happened to most of you. But have you ever wondered how a machine knows it ? 
+  That's because of something you have probably heard of Artificial Intelligence.
 
  Relevance:
-  AI is something that's already part of our everyday lives. Whether you're getting personalized shopping recommendations on Amazon, or using voice assistants like Siri and Alexa, AI is helping us every day. Even spam filters in your email use AI to keep your inbox clean, and healthcare systems use it to help doctors make better diagnoses. It's all around us, making things easier and more efficient.
+  AI is something that's already part of our everyday lives. Whether you're getting personalized shopping recommendations on Amazon, or using voice assistants like Siri and Alexa, 
+  AI is helping us every day. Even spam filters in your email use AI to keep your inbox clean, and healthcare systems use it to help doctors make better diagnoses. It's all around us, 
+  making things easier and more efficient.
 
  Credibility:
-  I am a computer science major, and I keep up with recent advancements in technology, especially in the field of AI. I'm really enthusiastic about how these machines learn at their core. While there are complex math algorithms involved, you don’t need to fear them at all—my passion is teaching these complex concepts to a general audience without any math involved.
+  I am a computer science major, and I keep up with recent advancements in technology, especially in the field of AI. I'm really enthusiastic about how these machines learn at their core. 
+  While there are complex math algorithms involved, you don’t need to fear them at all—my passion is teaching these complex concepts to a general audience without any math involved.
 
  Central Idea:
   The overall idea of this speech is to explain how artificial intelligence learns by focusing on three main methods: supervised learning, unsupervised learning, and reinforcement learning.
 
  Initial Preview:
-  First, we'll explore supervised learning, where AI learns from labeled examples, similar to how a student learns from a teacher. Next, we'll look at unsupervised learning, where AI tries to find patterns on its own without any specific guidance. Finally, we'll discuss reinforcement learning, where AI learns by trial and error, much like how we learn from experiences and feedback.
+  First, we'll explore supervised learning, where AI learns from labeled examples, similar to how a student learns from a teacher. Next, we'll look at unsupervised learning, where AI tries to find 
+  patterns on its own without any specific guidance. Finally, we'll discuss reinforcement learning, where AI learns by trial and error, much like how we learn from experiences and feedback.
 
