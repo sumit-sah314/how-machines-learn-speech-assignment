@@ -23,6 +23,22 @@ Specific Purpose: To help the audience understand how artificial intelligence le
   The overall idea of this speech is to explain how artificial intelligence learns by focusing on three main methods: supervised learning, unsupervised learning, and reinforcement learning.
 
  Initial Preview:
+  Machines learn by analyzing large amounts of data to find patterns, make predictions, and improve over time. They use three main methods: supervised learning, unsupervised learning, and reinforcement learning.
   First, we'll explore supervised learning, where AI learns from labeled examples, similar to how a student learns from a teacher. Next, we'll look at unsupervised learning, where AI tries to find 
   patterns on its own without any specific guidance. Finally, we'll discuss reinforcement learning, where AI learns by trial and error, much like how we learn from experiences and feedback.
 
+**BODY**
+ 
+ Transition to 1st Main Point: 
+  First, let's talk about supervised learning.
+ 
+ Point #1: 
+  Think about how you learned to differentiate between different animals as a child; someone told you, 'This is a dog' or 'This is a cat,' and over time you learned the difference. Supervised learning 
+  works in the same way. Supervised learning is when AI learns from labeled examples. For instance, If an AI is learning to recognize cats, it would be shown many pictures labeled 'cat' until it understands the features of a cat. 
+  Unlike humans, AI doesn’t see images the way we do. It doesn’t recognize shapes and colors immediately; instead, it sees an image as a collection of pixels. Each pixel has numerical values that represent its intensity and color. 
+  The AI learns to identify patterns based on these numbers, and by analyzing enough data, it starts to understand what makes an image a 'cat'. Remember the Netflix example from earlier? Netflix learns what you like based on what 
+  you have watched before. This is a form of supervised learning because it uses labeled data—your viewing history—to make recommendations. Another example is when you shop online. If you've bought or liked certain products, the 
+  store's AI will recommend similar items based on your previous choices, which acts as labeled data for the algorithm.
+
+
+ 
