@@ -34,10 +34,10 @@ Specific Purpose: To help the audience understand how AI learns, by discussing t
  
  Point #1: 
   Think about how you learned to recognize animals as a child. Someone pointed said, 'This is a dog,' and, 'This is a cat.' Over time, you learned to tell the 
-  difference. Now you should not be shown the exact "cat" or "dog" we were shown, you can see any cat or cat-lie species and recogize them. Supervised learning 
-  works the same way. It’s when AI learns from labeled examples.
-
-  - For instance, if we want an AI to recognize cats, we show it lots of pictures labeled 'cat' until it understands the features of a cat.
+  difference. Now even if you aren't shown the exact same "cat" or "dog" you can recognize any cat or dog-like species. Supervised learning 
+  works the same way.
+  
+  - For instance, if we want an AI to recognize cats, we feed it lots of pictures labeled 'cat' until it understands the features of a cat.
 
   - Unlike us, AI doesn’t see images as shapes or colors right away; instead, it sees them as a collection of pixels with numerical values. The AI then analyzes 
     enough of these images to identify the patterns that define a 'cat.'
@@ -48,8 +48,30 @@ Specific Purpose: To help the audience understand how AI learns, by discussing t
   - Another example is when you shop online. If you buy or like certain products, the store's AI will recommend similar items based on your preferences—again, 
      using labeled data to learn.
 
+Transition to 2nd Main Point: Now that we’ve talked about supervised learning, let’s move on to unsupervised learning, which is quite different but just as 
+                              interesting.
 
+Point #2:
+ In Unsupervised learning, we feed data without any labels i.e, AI has to figure out the patterns on its own. This means we feed tons of data, and it categorizes 
+ those data and makes group based on similarities.
 
+ - For example, if we give an AI a collection of animal pictures without telling it what each one is, it might group all the similar-looking animals together—cats 
+   in one group, dogs in another.
 
+ - Another example is anomaly detection, where AI identifies unusual data points that don’t fit the usual pattern. Banks use this to spot suspicious transactions, 
+   helping detect potential fraud by identifying things that don’t match normal behavior.
 
+Transition to 3rd Main Point: Now that we’ve explored supervised and unsupervised learning, let’s discuss the final type—reinforcement learning, which is all about 
+                              learning through experience.
+Point #3:
+
+Reinforcement learning is a type of machine learning where AI learns by interacting with its environment and receiving feedback, just like we do when we learn something new.
+
+ - Imagine training a dog; you give it a treat when it follows a command and withhold it when it doesn’t. Reinforcement learning works similarly for AI, as it 
+   learns which actions lead to positive outcomes.
+
+ - One example is teaching an AI to play video games. It starts out not knowing the rules, but through trial and error, it figures out how to maximize its score.
+
+ - Another example is self-driving cars. They use reinforcement learning to navigate roads safely, constantly adjusting their behavior based on their environment 
+   and learning from successes and mistakes.
  
