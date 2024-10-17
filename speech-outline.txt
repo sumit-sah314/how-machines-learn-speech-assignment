@@ -11,7 +11,7 @@ Specific Purpose: To help the audience understand how AI learns, by discussing t
   wondered how does a machine know it ? That's because of something you have probably heard of - Artificial Intelligence.
 
  Relevance:
-  AI is something that's already part of our everyday lives. Whether you're getting personalized shopping recommendations on Amazon, or using Large Language Models 
+  AI is something that's already part of our everyday lives. Whether you're getting personalized  shopping recommendations on Amazon, or using Large Language Models 
   like ChatGPT, AI is helping us every day. Even spam filters in your email use AI to keep you away from the fraud emails.
 
  Credibility:
@@ -20,20 +20,17 @@ Specific Purpose: To help the audience understand how AI learns, by discussing t
   to a general audience without any math involved.
 
  Central Idea:
-  The overall idea of this speech is to explain how Artificial Intelligence learns by focusing on three main methods: supervised learning, unsupervised learning, 
-  and reinforcement learning.
-
+  The overall idea of this speech is to explain how Artificial Intelligence learns. 
  Initial Preview:
-  First, we'll explore supervised learning, where AI learns from labeled examples. Next, we'll look at unsupervised 
-  learning, where AI tries to find patterns on its own without any specific guidance. Finally, we'll discuss reinforcement learning, where AI learns by trial and 
-  error, much like how we learn from experiences and feedback.
+ supervised learning, unsupervised learning, 
+  and reinforcement learning.
 
 **BODY**
  
  Transition to 1st Main Point: First, let's talk about supervised learning.
  
  Point #1: 
-  Think about how you learned to recognize animals as a child. Someone pointed said, 'This is a dog,' and, 'This is a cat.' Over time, you learned to tell the 
+  Think about how you learned to recognize animals as a child. Someone pointed and said, 'This is a dog,' and, 'This is a cat.' Over time, you learned to tell the 
   difference. Now even if you aren't shown the exact same "cat" or "dog" you can recognize any cat or dog-like species. Supervised learning 
   works the same way.
   
