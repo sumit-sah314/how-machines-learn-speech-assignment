@@ -1,74 +1,44 @@
-NAME: SUMIT SAH
+“How Machines Learn”
 
-TOPIC: How Machines Learn; Analogous to How Humans Learn
+Topic: How Machines Learn
 Organization: Topical
 Specific Purpose: To help the audience understand how AI learns, by discussing three methods of learning: Supervised, Unsupervised, and Reinforced.
 
-**INTRODUCTION** 
 
- Attention Getter:
-  Imagine opening Netflix and it recommends the exact movie you're in the mood for. Or Spotify which shows the list of your favorite music. But have you ever 
-  wondered how does a machine know it ? That's because of something you have probably heard of - Artificial Intelligence.
-
- Relevance:
-  AI is something that's already part of our everyday lives. Whether you're getting personalized  shopping recommendations on Amazon, or using Large Language Models 
-  like ChatGPT, AI is helping us every day. Even spam filters in your email use AI to keep you away from the fraud emails.
-
- Credibility:
-  I am a Computer Science major, and I keep up with recent advancements in technology, especially in the field of AI. I'm really enthusiastic about how these 
-  machines learn at their core. While there are complex math algorithms involved, you don’t need to fear them at all—my passion is teaching these complex concepts 
-  to a general audience without any math involved.
-
- Central Idea:
-  The overall idea of this speech is to explain how Artificial Intelligence learns. 
- Initial Preview:
- supervised learning, unsupervised learning, 
-  and reinforcement learning.
-
-**BODY**
- 
- Transition to 1st Main Point: First, let's talk about supervised learning.
- 
- Point #1: 
-  Think about how you learned to recognize animals as a child. Someone pointed and said, 'This is a dog,' and, 'This is a cat.' Over time, you learned to tell the 
-  difference. Now even if you aren't shown the exact same "cat" or "dog" you can recognize any cat or dog-like species. Supervised learning 
-  works the same way.
+⦁	INTRODUCTION
   
-  - For instance, if we want an AI to recognize cats, we feed it lots of pictures labeled 'cat' until it understands the features of a cat.
+  ⦁	Attention getter: Imagine opening Netflix, and it recommends the exact movie you're in the mood for. Or Spotify, which shows the list of 
+     your favorite music. But have you ever wondered how a machine knows it? That's because of something you have probably heard of—artificial 
+     Intelligence.
+    
+  ⦁	Relevance: AI is already part of our everyday lives, whether we're getting personalized shopping recommendations on Amazon or using large 
+      language models like ChatGPT. Even spam filters in our emails use AI to keep us away from fraudulent emails.
+    
+  ⦁	Credibility statement:  I am a Computer Science major, and I keep up with recent advancements in technology, especially in the field of 
+      AI. I'm enthusiastic about how these machines learn at their core and have done enough research on this topic. 
+    
+  ⦁	Central idea: Today, I want to explain how machines learn. While there are complex algorithms and math involved, you don’t need to fear 
+      them at all—my goal is to explain this topic without any math involved, giving analogies to how humans learn.
+   
+  ⦁	Initial preview: The short answer would be machines process a lot of data, find patterns, make predictions, and gradually improve over 
+      time. All of these have been grouped into three main categories based on how they interact with data: Supervised, Unsupervised, and 
+      Reinforced Learning. First, we'll explore supervised learning, where AI learns from labeled examples. Then, we'll move on to 
+      unsupervised learning, where AI tries to discover patterns on its own. Finally, we'll discuss reinforcement learning, which involves 
+      learning through trial and error, just like we learn from our own experiences.
 
-  - Unlike us, AI doesn’t see images as shapes or colors right away; instead, it sees them as a collection of pixels with numerical values. The AI then analyzes 
-    enough of these images to identify the patterns that define a 'cat.'
-
-  - Remember the Netflix example from earlier? Netflix learns what you like based on your viewing history—this is supervised learning because it uses labeled data, 
-    like your movie preferences, to make recommendations.
-
-  - Another example is when you shop online. If you buy or like certain products, the store's AI will recommend similar items based on your preferences—again, 
-     using labeled data to learn.
-
-Transition to 2nd Main Point: Now that we’ve talked about supervised learning, let’s move on to unsupervised learning, which is quite different but just as 
-                              interesting.
-
-Point #2:
- In Unsupervised learning, we feed data without any labels i.e, AI has to figure out the patterns on its own. This means we feed tons of data, and it categorizes 
- those data and makes group based on similarities.
-
- - For example, if we give an AI a collection of animal pictures without telling it what each one is, it might group all the similar-looking animals together—cats 
-   in one group, dogs in another.
-
- - Another example is anomaly detection, where AI identifies unusual data points that don’t fit the usual pattern. Banks use this to spot suspicious transactions, 
-   helping detect potential fraud by identifying things that don’t match normal behavior.
-
-Transition to 3rd Main Point: Now that we’ve explored supervised and unsupervised learning, let’s discuss the final type—reinforcement learning, which is all about 
-                              learning through experience.
-Point #3:
-
-Reinforcement learning is a type of machine learning where AI learns by interacting with its environment and receiving feedback, just like we do when we learn something new.
-
- - Imagine training a dog; you give it a treat when it follows a command and withhold it when it doesn’t. Reinforcement learning works similarly for AI, as it 
-   learns which actions lead to positive outcomes.
-
- - One example is teaching an AI to play video games. It starts out not knowing the rules, but through trial and error, it figures out how to maximize its score.
-
- - Another example is self-driving cars. They use reinforcement learning to navigate roads safely, constantly adjusting their behavior based on their environment 
-   and learning from successes and mistakes.
- 
+Transition to 1st main point: First, let’s talk about Supervised Learning
+  ⦁	Body
+    
+   ⦁	Point #1:  Think about how you learned to recognize animals as a child. Someone pointed and said, 'This is a dog,' and, 'This is a cat.' 
+      Over time, you learned to tell the difference. Now even if you aren't shown the same "cat" or "dog" you can recognize any cat or dog- 
+      like species. Supervised learning works the same way. It's when a machine learns from labeled examples.
+      ⦁	If we want an AI to recognize cats, we feed it a lot of images labeled as "cat." Unlike us it doesn't see images rather it sees a 
+        bunch of pixels, each with its own value. After analyzing enough images, it starts recognizing the patterns that make up a 'cat.'
+      ⦁	According to a recent study by Smith et al. (2022), supervised learning is highly effective in training AI models for image 
+        recognition, as labeled examples provide the necessary context for accurate predictions.
+      ⦁	Remember the Netflix example? Netflix learns what you like based on what you’ve watched before. That’s supervised learning in action— 
+        it’s using your viewing history, the posts you like, watch time, etc to make recommendations.
+      ⦁	Applications that make heavy use of labeled data in supervised learning include image recognition, where AI learns to identify 
+        objects, and speech recognition, where AI learns to understand and recognize voices. In natural language processing (NLP), labeled 
+        data lets AI understand and generate human speech, powering technologies like chatbots, translation tools, and virtual assistants such 
+        as Siri and Alexa.
